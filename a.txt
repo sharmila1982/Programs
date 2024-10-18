@@ -1,0 +1,5 @@
+#Storing through properties
+#Tue Oct 08 14:09:37 IST 2024
+email=sharmila@gmail.com
+name=sharmila
+phone=6281605347
